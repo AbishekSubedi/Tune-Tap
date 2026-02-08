@@ -64,7 +64,7 @@ The modular structure allows easy expansion with additional sensors or interacti
 ## Hardware Setup
 
 ```md
-![TuneTap Wearable Setup](images/interface.HEIC)
+![TuneTap Wearable Setup](images/interface.jpg)
 ```
 
 ---
